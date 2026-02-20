@@ -1,2 +1,2 @@
-# finance-planner
-Smart Loan &amp; Finance Planner
+# Smart Loan & Finance Planner
+v2005 lines · React + Vite + Tailwind
